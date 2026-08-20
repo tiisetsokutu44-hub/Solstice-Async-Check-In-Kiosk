@@ -1,0 +1,6 @@
+{
+  "name": "Solstice Async Check-In Kiosk",
+  "description": "Asynchronous event check-in kiosk and badge printing queue with webhook fulfillment and idempotency protection.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
